@@ -1,0 +1,30 @@
+{
+  "name": "strega-nona",
+  "version": "1.0.0",
+  "description": "getting food with the MERN stack",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewEBolt/strega-nona.git"
+  },
+  "author": "andrewebolt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndrewEBolt/strega-nona/issues"
+  },
+  "homepage": "https://github.com/AndrewEBolt/strega-nona#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.3",
+    "mongodb": "^2.2.28"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
