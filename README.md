@@ -1,2 +1,2 @@
 # strega-nona
-getting food with the MERN stack
+an api built with nodejs and mongoDB
